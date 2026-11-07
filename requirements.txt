@@ -1,0 +1,5 @@
+httpx
+beautifulsoup4
+pydantic>=2
+matplotlib
+pytest

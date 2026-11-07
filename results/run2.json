@@ -1,0 +1,24 @@
+{
+  "seconds": 392.7,
+  "requests": 1050,
+  "not_modified": 1050,
+  "retries": 0,
+  "failed": 0,
+  "disallowed": 0,
+  "products_new": 0,
+  "products_updated": 0,
+  "rejected": 0,
+  "changes": 0,
+  "statuses": {
+    "304": 1050
+  },
+  "products": 1000,
+  "categories": 50,
+  "missing_description": 2,
+  "missing_rating": 0,
+  "duplicate_titles": 1,
+  "price_min": 10.0,
+  "price_max": 59.99,
+  "rejected_pages": 0,
+  "failed_pages": 0
+}
